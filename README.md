@@ -1,7 +1,7 @@
 ## Hey, I'm shijl0925, welcome to my GitHub 👋
 
  ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%2300599C.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=%23F7DF1E)
 
 ## 📊 Progress Stats:
 
