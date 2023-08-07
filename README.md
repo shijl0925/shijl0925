@@ -1,3 +1,11 @@
 ## Hey, I'm shijl0925, welcome to my GitHub 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=shijl0925&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+ ## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📊 Progress Stats:
+
+![shijl0925's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijl0925&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijl0925)](https://github.com/shijl0925)
